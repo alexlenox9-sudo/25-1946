@@ -34,3 +34,8 @@ th {
 tr:hover {
     background-color: #1f1f3a;
 }
+.product img {
+    width: 200px;
+    border-radius: 10px;
+    margin: 15px;
+}
