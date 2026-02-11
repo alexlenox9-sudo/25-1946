@@ -1,0 +1,36 @@
+body {
+    background-color: #0f0f1a;
+    color: white;
+    text-align: center;
+    font-family: Arial;
+}
+
+h1 {
+    color: cyan;
+}
+
+img {
+    margin: 15px;
+    border-radius: 10px;
+}
+
+table {
+    margin: auto;
+    margin-top: 20px;
+    border-collapse: collapse;
+    width: 70%;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid cyan;
+}
+
+th {
+    background-color: #1a1a2e;
+    color: cyan;
+}
+
+tr:hover {
+    background-color: #1f1f3a;
+}
