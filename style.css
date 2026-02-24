@@ -29,3 +29,18 @@ button:hover {
     transform: scale(1.1);
     transition: 0.3s ease;
 }
+.house-card h3 {
+    color: #ffd700;
+    margin-bottom: 10px;
+}
+
+button:hover {
+    background-color: #ff5722;
+    color: white;
+    transform: scale(1.1);
+    transition: 0.3s ease;
+}
+
+.house-card:hover {
+    background: rgba(255,255,255,0.2);
+}
