@@ -18,3 +18,14 @@ button:hover {
     transform: scale(1.1);
     transition: 0.3s;
 }
+.card h3 {
+    margin-bottom: 10px;
+    color: #ffd700;
+}
+
+button:hover {
+    background-color: #ff5722;
+    color: white;
+    transform: scale(1.1);
+    transition: 0.3s ease;
+}
